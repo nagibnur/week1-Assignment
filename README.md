@@ -10,3 +10,4 @@ This project allowed me to solve problem with code that previously made, i learn
 Horiseon Search-Online-Social (./assets/images/horiseon.png) [alt text]
 
 ## link
+ https://nagibnur.github.io/week1-Assignment/
