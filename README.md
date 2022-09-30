@@ -7,7 +7,7 @@ The project was to show that I can create an HTML semantic element, and commit o
 This project allowed me to solve problem with code that previously made, i learned to follow the acceptance criteria, and to make my code clean easy to read
 
 ## Mock up 
-Horiseon Search-Online-Social (./assets/images/horiseon.png) [alt text]
+Horiseon Search-Online-Social (./assets/images/horiseon.png/) [alt text]
 
 ## link
  https://nagibnur.github.io/week1-Assignment/
